@@ -1,0 +1,7 @@
+﻿go down
+take torch
+go north
+take book of lore
+go east 
+use torch
+take crown
