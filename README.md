@@ -13,7 +13,7 @@ Thank you for stepping into this world of adventure. Enjoy unraveling the secret
 
 ---
 
-**Developer's Note:** This game was created as a fun and educational project to explore the possibilities of text-based programming and game design. Whether you are a seasoned gamer or new to text adventures, I hope you find this game both challenging and entertaining!
+**Developer's Note:** This game was created as a fun and educational project to explore the possibilities of text-based programming and game design. Whether you are a seasoned gamer or new to text adventures, I hope you find this game entertaining!
 
 ---
 
